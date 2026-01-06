@@ -1,0 +1,6 @@
+<launch>
+<node name="nubot_control_node" pkg="nubot_control" type="nubot_control_node"
+output="screen">
+<param name="parking_y" type="double" value="0.0" />
+</node>
+</launch>
