@@ -8,7 +8,7 @@
 ![Status](https://img.shields.io/badge/Status-Competition%20Ready-green)
 
 **基于ROS的5v5机器人足球分布式协同决策与控制系统**
-
+![演示动图](demo.gif)
 </div>
 
 ---
